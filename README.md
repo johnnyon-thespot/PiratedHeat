@@ -1,4 +1,7 @@
 # PiratedHeat
+
+UPDATE: 07/03/2024 - New launcher update and 0.6.3.2 Heat update!
+
 Launcher that automatically downloads latest cracked version of Anthro Heat.
 
 How it works?

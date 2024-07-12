@@ -2,7 +2,9 @@
 
 UPDATE: 12th of July 2024 - New launcher update because I had to switch web hosting, RIP 000webhost :(
 Latest ver: 0.6.3.2
+
 Youtube tutorial: https://www.youtube.com/watch?v=X1xFk279xyo
+
 VirusTotal 12/07/2024 : https://www.virustotal.com/gui/file-analysis/MjIzOTJlMzlkNTBmOWVkNTgzN2E0MDY5OGUzNTYzZGQ6MTcyMDc5ODI3NQ==
 
 Launcher that automatically downloads latest cracked version of Anthro Heat.

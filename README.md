@@ -1,7 +1,7 @@
 # PiratedHeat
 
-UPDATE: 07/03/2024 - New launcher update and 0.6.3.2 Heat update!
-
+UPDATE: 12th of July 2024 - New launcher update because I had to switch web hosting, RIP 000webhost :(
+Latest ver: 0.6.3.2
 Launcher that automatically downloads latest cracked version of Anthro Heat.
 
 How it works?
@@ -19,6 +19,6 @@ Uh... A very nice VR Furry NSFW game lol. I recommend buying it when it launches
 WHy is this not open-source?
 It will be but not right now, currently the .exe is not obfuscated so feel free to have a look at it
 
-VirusTotal: https://www.virustotal.com/gui/file-analysis/ODI4MmQ0NDYwOWUxMjg1MWI2NDhjMWMzMjM1NzE4MWU6MTcyMDA0MDQ5MA==
+VirusTotal 12/07/2024 : https://www.virustotal.com/gui/file-analysis/MjIzOTJlMzlkNTBmOWVkNTgzN2E0MDY5OGUzNTYzZGQ6MTcyMDc5ODI3NQ==
 
 ![Screenshot 2024-06-25 235157](https://github.com/johnnyon-thespot/PiratedHeat/assets/173853173/95075d88-37f2-4a74-b4e3-0fd35166bea1)

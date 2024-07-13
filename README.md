@@ -2,7 +2,7 @@
 
 UPDATE: 12th of July 2024 - New launcher update because I had to switch web hosting, RIP 000webhost :(
 
-Latest game ver: 0.6.3.2
+Latest game ver: 0.6.4.0
 
 Youtube tutorial: https://www.youtube.com/watch?v=X1xFk279xyo
 

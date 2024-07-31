@@ -1,5 +1,7 @@
 # PiratedHeat
 
+UPDATE 31/07/2024 - UNFORTUNATLY, AGAIN, THE WEBSITE HOSTING WENT DONW, THE LAUNCHER WILL BE DOWN FOR A FEW DAYS UNTIL I CAN FIND A STABLE FREE HOSTING!
+
 UPDATE: 12th of July 2024 - New launcher update because I had to switch web hosting, RIP 000webhost :(
 
 Latest game ver: 0.6.4.0
